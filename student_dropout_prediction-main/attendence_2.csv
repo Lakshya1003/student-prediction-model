@@ -1,0 +1,115 @@
+monthly_absences,last_year_marks,family_income,education_board,gender,family_structure,parent_education,residential_area,academic_trend,access_to_tutoring,dropout_risk
+1,41,250000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+2,42,300000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+3,43,350000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+4,44,400000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+5,45,450000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+6,46,500000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+7,47,550000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+8,48,600000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+9,49,650000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+10,50,700000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+11,51,750000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+12,52,800000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+0,53,850000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+1,54,200000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+2,55,250000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+3,56,300000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+4,57,350000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+5,58,400000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+6,59,450000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+7,60,500000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+8,61,550000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+9,62,600000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+10,63,650000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+11,64,700000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+12,65,750000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+0,66,800000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+1,67,850000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+2,68,200000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+3,69,250000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+4,70,300000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+5,71,350000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+6,72,400000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+7,73,450000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+8,74,500000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+9,75,550000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+10,76,600000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+11,77,650000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+12,78,700000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+0,79,750000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+1,80,800000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+2,81,850000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+3,82,200000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+4,83,250000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+5,84,300000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+6,85,350000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+7,86,400000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+8,87,450000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+9,88,500000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+10,89,550000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+11,90,600000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+12,91,650000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+0,92,700000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+1,93,750000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+2,94,800000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+3,95,850000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+4,40,200000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+5,41,250000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+6,42,300000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+7,43,350000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+8,44,400000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+9,45,450000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+10,46,500000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+11,47,550000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+12,48,600000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+0,49,650000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+1,50,700000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+2,51,750000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+3,52,800000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+4,53,850000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+5,54,200000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+6,55,250000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+7,56,300000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+8,57,350000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+9,58,400000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+10,59,450000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+11,60,500000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+12,61,550000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+0,62,600000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+1,63,650000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+2,64,700000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+3,65,750000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+4,66,800000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+5,67,850000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+6,68,200000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+7,69,250000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+8,70,300000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+9,71,350000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+10,72,400000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+11,73,450000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+12,74,500000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+0,75,550000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+1,76,600000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+2,77,650000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+3,78,700000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+4,79,750000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+5,80,800000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,No,Definite dropout
+6,81,850000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+7,82,200000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+8,83,250000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+9,84,300000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+10,85,350000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+11,86,400000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+12,87,450000,CBSE,Female,Joint,High School,Urban,Improving,Yes,No risk
+0,88,500000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,No,At risk
+1,89,550000,ICSE,Female,Joint,Postgraduate,Rural,Steady,Yes,Definite dropout
+2,90,600000,CBSE,Male,Nuclear,High School,Urban,Improving,No,No risk
+3,91,650000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,Yes,At risk
+4,92,700000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
+5,93,750000,CBSE,Male,Nuclear,High School,Urban,Improving,Yes,No risk
+6,94,800000,State Board,Female,Joint,Graduate,Semi-Urban,Declining,No,At risk
+7,95,850000,ICSE,Male,Nuclear,Postgraduate,Rural,Steady,Yes,Definite dropout
+8,40,200000,CBSE,Female,Joint,High School,Urban,Improving,No,No risk
+9,41,250000,State Board,Male,Nuclear,Graduate,Semi-Urban,Declining,Yes,At risk
+10,42,300000,ICSE,Female,Joint,Postgraduate,Rural,Steady,No,Definite dropout
